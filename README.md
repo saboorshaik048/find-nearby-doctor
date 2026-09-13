@@ -187,7 +187,6 @@ http://localhost:5173
 | Doctor  | doctor@example.com  | 123456   |
 | Admin   | admin@example.com   | admin123 |
 
-> Replace the above with your actual credentials from `src/context/AuthContext.jsx`.
 
 ---
 ## Live Demo
