@@ -143,3 +143,85 @@ find-nearby-doctor/
 ├── vite.config.js
 └── README.md
 ```
+
+## Getting Started
+
+### Prerequisites
+- Node.js v18 or higher
+- npm
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/saboorshaik048/find-nearby-doctor.git
+```
+
+2. Navigate to the project folder:
+```bash
+cd find-nearby-doctor
+```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+4. Start the development server:
+```bash
+npm run dev
+```
+
+5. Open your browser and go to:
+```
+http://localhost:5173
+```
+
+---
+
+## Demo Credentials
+
+| Role    | Email               | Password |
+|---------|---------------------|----------|
+| Patient | patient@example.com | 123456   |
+| Doctor  | doctor@example.com  | 123456   |
+| Admin   | admin@example.com   | admin123 |
+
+> Replace the above with your actual credentials from `src/context/AuthContext.jsx`.
+
+---
+
+## Screenshots
+
+### Home Page
+![Home](./screenshots/home.png)
+
+### Doctor Dashboard
+![Doctor Dashboard](./screenshots/doctor-dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+> Create a `screenshots/` folder in the root of your project, add your images there, then commit and push.
+
+---
+
+## Live Demo
+
+🔗 [Coming soon](#)
+
+> Update this link after deploying to Vercel or Netlify.
+
+---
+
+## Note
+
+> This project is frontend-only. All data is stored in the browser's **localStorage** using mock data — there is no backend server.
+
+---
+
+## Author
+
+**Saboor Shaik**
+- GitHub: [@saboorshaik048](https://github.com/saboorshaik048)
+
