@@ -194,7 +194,7 @@ http://localhost:5173
 
 🔗 [Coming soon](#)
 
-> Update this link after deploying to Vercel or Netlify.
+
 
 ---
 
