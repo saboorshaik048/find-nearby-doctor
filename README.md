@@ -190,22 +190,6 @@ http://localhost:5173
 > Replace the above with your actual credentials from `src/context/AuthContext.jsx`.
 
 ---
-
-## Screenshots
-
-### Home Page
-![Home](./screenshots/home.png)
-
-### Doctor Dashboard
-![Doctor Dashboard](./screenshots/doctor-dashboard.png)
-
-### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-
-> Create a `screenshots/` folder in the root of your project, add your images there, then commit and push.
-
----
-
 ## Live Demo
 
 🔗 [Coming soon](#)
