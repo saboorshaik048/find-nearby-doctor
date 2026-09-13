@@ -191,7 +191,9 @@ http://localhost:5173
 ---
 ## Live Demo
 
-🔗 [Coming soon](#)
+🔗## Live Demo
+
+🔗 [https://find-nearby-doctor.vercel.app](https://find-nearby-doctor.vercel.app)
 
 
 
